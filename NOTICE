@@ -1,0 +1,77 @@
+NOTICE
+======
+
+Wii Fit U Localization Project
+Copyright (c) 2026 Wii Fit U Localization Project Contributors
+Licensed under the MIT License (see LICENSE).
+
+This product is a non-commercial fan project and is not affiliated with,
+sponsored by, or endorsed by Nintendo. All trademarks are the property of
+their respective owners.
+
+This repository does NOT contain any game files, game-derived binaries,
+or font files. Users must supply files extracted from their own legally
+owned copy of the game, and must obtain the fonts separately under the
+font vendor's own license.
+
+------------------------------------------------------------------------
+Third-party components / 第三方组件
+------------------------------------------------------------------------
+
+1. arqhive/wii-fit-u-korean-translation
+   (https://github.com/arqhive/wii-fit-u-korean-translation) - portions of
+   the code in this project reference, or are derived from, its source code.
+   License: MIT. Copyright (c) 2026 arqhive. The MIT permission text is the
+   same standard license text reproduced in this repository's LICENSE file.
+
+2. TuneBloom (https://github.com/) - reference for file format behavior.
+   License: MIT. Copyright (c) 2026 STUPID Modder.
+   The scripts in this project are independent re-implementations of the
+   documented behavior; they do not copy TuneBloom source code.
+
+3. Pillow (https://python-pillow.org/) - Python imaging library, used at
+   runtime but not bundled. License: HPND/MIT-style.
+   Copyright (c) 2010-2026 by Jeffrey A. Clark and contributors.
+
+4. edge-tts - Python client for Microsoft Edge online TTS, used at
+   runtime but not bundled. License: MIT.
+
+5. SoX (Sound eXchange) - external audio post-processing tool, NOT
+   bundled. License: LGPL/GPL. Users install it separately.
+
+6. Alibaba PuHuiTi fonts - NOT bundled and NOT redistributed here.
+   The font files are subject to Alibaba's own end-user license; users
+   download them from the official channel and use them under that
+   license. Modifying the font files and republishing them is not
+   permitted by that license.
+
+========================================================================
+中文
+========================================================================
+
+本项目为 Wii Fit U 本地化项目，版权归本项目贡献者所有，依 MIT 许可证
+授权（详见 LICENSE）。
+
+本项目为非商业同人作品，与任天堂公司无任何隶属、赞助或认可关系。
+所有商标均归各自权利人所有。
+
+本仓库不包含任何游戏文件、游戏衍生二进制文件或字体文件。使用者须
+自行从其合法拥有的游戏中提取文件，并依字体厂商的许可证另行获取字体。
+
+第三方组件说明：
+
+1. arqhive/wii-fit-u-korean-translation
+   （https://github.com/arqhive/wii-fit-u-korean-translation）：本项目部分
+   代码参考或衍生自其源代码。MIT 许可证，版权所有 (c) 2026 arqhive。
+   MIT 许可正文与本仓库 LICENSE 中所附的标准许可文本一致。
+2. TuneBloom：文件格式行为的参考实现，MIT 许可证，版权所有 (c) 2026
+   STUPID Modder。本项目脚本为依据文档行为的独立重写，未复制其源码。
+3. Pillow：Python 图像处理库，运行时依赖、未随本仓库分发，HPND/MIT
+   类许可证。
+4. edge-tts：微软 Edge 在线语音合成的 Python 客户端，运行时依赖、未
+   随本仓库分发，MIT 许可证。
+5. SoX：外部音频后处理工具，未随本仓库分发，LGPL/GPL 许可证，由使用
+   者自行安装。
+6. 阿里巴巴普惠体：未随本仓库分发或再许可。字体文件适用阿里巴巴的
+   最终用户许可证，使用者从官方渠道下载并在该许可证下使用；该许可证
+   不允许修改字体文件后重新发布。
