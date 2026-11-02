@@ -153,7 +153,7 @@ game\ui\aot_tex.jarc                       (base game only / 仅本体存在)
 - `02_TextureToolkit\docs\FORMAT_jtex.md` — jTEX/jARC format notes (Chinese)
 - `samples\` — invented, copyright-free format examples
 
-### External references / 外部参考
+## External references / 外部参考
 
 **EN:**
 
