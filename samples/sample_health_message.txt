@@ -1,0 +1,32 @@
+%%%
+bigEndian: true
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 0
+hasMID1: true
+MID1Format: 0x1001
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 100001
+attribute: 0x0000000000640000
+---
+This is an invented sample sentence.
+这是一条虚构的示例句子。
+
+---
+id: 100002
+attribute: 0x0000000000640000
+---
+Another fake block, used only to demonstrate the file layout.
+另一个虚构文本块，仅用于演示文件结构。
+
+---
+id: 100003
+attribute: 0x0000000000640000
+---
+{{255:0 arg="0x0100"}}Inline control codes look like this.
+{{255:0 arg="0x0100"}}行内控制码的形式如上。
