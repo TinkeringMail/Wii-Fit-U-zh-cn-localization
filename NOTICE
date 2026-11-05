@@ -42,8 +42,7 @@ Third-party components / 第三方组件
 6. Alibaba PuHuiTi fonts - NOT bundled and NOT redistributed here.
    The font files are subject to Alibaba's own end-user license; users
    download them from the official channel and use them under that
-   license. Modifying the font files and republishing them is not
-   permitted by that license.
+   license.
 
 ========================================================================
 中文
@@ -73,5 +72,4 @@ Third-party components / 第三方组件
 5. SoX：外部音频后处理工具，未随本仓库分发，LGPL/GPL 许可证，由使用
    者自行安装。
 6. 阿里巴巴普惠体：未随本仓库分发或再许可。字体文件适用阿里巴巴的
-   最终用户许可证，使用者从官方渠道下载并在该许可证下使用；该许可证
-   不允许修改字体文件后重新发布。
+   最终用户许可证，使用者从官方渠道下载并在该许可证下使用。
